@@ -127,7 +127,8 @@ SOURCES += main.cpp \
     handler/tloghandler.cpp \
     handler/tpresencehandler.cpp \
     listener/trosterlistener.cpp \
-    testgit.cpp
+    testgit.cpp \
+    testgit2.cpp
 
 HEADERS += \
     commodule.h \
@@ -305,6 +306,7 @@ HEADERS += \
     handler/tloghandler.h \
     handler/tpresencehandler.h \
     listener/trosterlistener.h \
-    testgit.h
+    testgit.h \
+    testgit2.h
 
 LIBS += -lws2_32 -lSecur32 -lDnsapi -lcrypt32
