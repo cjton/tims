@@ -126,7 +126,8 @@ SOURCES += main.cpp \
     handler/tchatstatehandler.cpp \
     handler/tloghandler.cpp \
     handler/tpresencehandler.cpp \
-    listener/trosterlistener.cpp
+    listener/trosterlistener.cpp \
+    testgit.cpp
 
 HEADERS += \
     commodule.h \
@@ -303,6 +304,7 @@ HEADERS += \
     handler/tchatstatehandler.h \
     handler/tloghandler.h \
     handler/tpresencehandler.h \
-    listener/trosterlistener.h
+    listener/trosterlistener.h \
+    testgit.h
 
 LIBS += -lws2_32 -lSecur32 -lDnsapi -lcrypt32
