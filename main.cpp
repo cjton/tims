@@ -24,7 +24,8 @@ int main(int argc, char *argv[])
         com.sendChatState(jid,ChatStateInactive);
         com.sendEvent(jid,MessageEventComposing);
     }
-aaaaaaaaa
+
+    asdfasdfasdf
     a.exec();
 }
 
