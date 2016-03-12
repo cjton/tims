@@ -127,7 +127,6 @@ SOURCES += main.cpp \
     handler/tloghandler.cpp \
     handler/tpresencehandler.cpp \
     listener/trosterlistener.cpp \
-    testgit.cpp \
     testgit2.cpp \
     testgit3.cpp
 
@@ -307,7 +306,6 @@ HEADERS += \
     handler/tloghandler.h \
     handler/tpresencehandler.h \
     listener/trosterlistener.h \
-    testgit.h \
     testgit2.h \
     testgit3.h
 
